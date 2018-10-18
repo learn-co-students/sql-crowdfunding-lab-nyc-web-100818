@@ -1,0 +1,65 @@
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Robot', 'Science', 10000, 10/5/18, 10/4/3404);
+
+
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+INSERT INTO users (name, age) VALUES ('Robert', 15);
+
+
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (400, 3, 6);
